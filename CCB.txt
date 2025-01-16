@@ -1,0 +1,5 @@
+{"meta":{"setID": "CCB", "title": "CCB — TVP Submissions"},
+"cards":[
+	{"fullName": "Intrusive Thoughts", "cardName": "Intrusive Thoughts", "manaCost": "{1}{R}", "typeLine": "Sorcery", "rarityLine": "*CCB C*", "rulesText": "This spell has flash if it was cast from exile.\nThis spell deals 3 damage to any target.\nForetell {R} *(During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)*", "flavorText": "*They always happen at the worst of times.*\n", "power": "", "toughness": "", "loyalty": "", "color": "{Red} ", "cmc": 2, "cardType": "Sorcery", "rarity": "common", "shape": "normal", "setID": "CCB", "cardID": "0", "notes": [], "artist": "Vyacheslav Safronov"}
+]
+}
