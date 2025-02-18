@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+	<set>
+      <name>CCB</name>
+  	<longname>Community Card Bash</longname>
+      <settype>Custom</settype>
+	</set>
+  </sets>
+  <cards>
+    <card>
+      <name>Action Close-Up</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <pt></pt>
+ 	 	</prop>
+	 	  	<tablerow>3</tablerow>
+	  		<text>Target creature gets +2/+0 and gains first strike until end of turn.
+		Choreography (Then you may exile this spell card taught to a creature you control. Whenever that creature attacks, you may cast a copy of this spell. You still pay its costs.)</text>
+	</card>
+    <card>
+      <name>Aegis Maneuver</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <pt></pt>
+	  	 	</prop>
+  		<tablerow>3</tablerow>
+  		<text></text>
+	</card>
+    <card>
+      <name>Against the Odds</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <pt></pt>
+ 	 	</prop>
+  		<tablerow>3</tablerow>
+  		<text></text>
+	</card>
+    <card>
+      <name>Angel of Vengence</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature — Angel</type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+ 	 	</prop>
+  		<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Apprentice's Dagger</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact — Equipment</type>
+        <maintype>Artifact</maintype>
+        <pt>+1/+1</pt>
+ 	 	</prop>
+ 	 	<tablerow>1</tablerow>
+ 	 	<text> </text>
+	</card>
+    <card>
+      <name>Astroponics</name>
+      <set rarity="common">CCB</set>
+  	    <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <pt></pt>
+  		</prop>
+  		<tablerow>3</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Awakened Lieutenant</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>3WB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Zombie Knight</type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+ 	 	</prop>
+ 	 	<tablerow>2</tablerow>
+	  		<text> Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for <sym>1</sym> or one mana of that creature's color.)
+ 	 	Deathtouch
+ 	 	Lifelink</text>
+	</card>
+    <card>
+      <name>Big Crunch</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <pt></pt>
+ 	 	</prop>
+	 	  	<tablerow>3</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Blessing of the Angler</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <pt></pt>
+ 	 	</prop>
+ 	 	<tablerow>3</tablerow>
+ 	 	<text> </text>
+	</card>
+    <card>
+      <name>Bonewhip Brawler</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Human Warrior</type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+ 	 	</prop>
+ 	 	<tablerow>2</tablerow>
+	  		<text> </text>
+	</card>
+    <card>
+      <name>Brief Interlude</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>3</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Celestial Deer</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5R</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment Creature — Elk</type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Cloudsworn Enforcer</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature — Construct</type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Combat Engineer</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>RW</colors>
+        <manacost>3RW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Artificer Warrior</type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> Trample
+ 	 	Whenever this creature attacks, if this creature is equipped, create a 1/1 colorless Servo artifact creature token.</text>
+ 	 	<reverse-related>Servo Token</reverse-related>
+	</card>
+    <card>
+      <name>Cosmic Angler</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature — Fish</type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Crest Sentry</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature — Human Warrior</type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Crimsonfangs Boar</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature — Boar</type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text>Constellation - Whenever this enchantment or another enchantment you control enters, target creature you contro lgets +1/+1 and gains haste until end of turn. </text>
+	</card>
+    <card>
+      <name>Crownguard Knight</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature — Human Knight</type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Crumbling Castle</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc></cmc>
+        <type>Land — Castle</type>
+        <maintype>Land</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>0</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Crystalline Carapace</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors></colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact — Equipment</type>
+        <maintype>Artifact</maintype>
+        <pt>+1/+1</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Dawnsteel Mastersmith</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Human Citizen</type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Dead Dancer</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie Bard</type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text>When this creature enters or dies, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)</text>
+	</card>
+    <card>
+      <name>Decaying Swine</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Boar</type>
+        <maintype></maintype>
+        <pt>2/3</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Delivery Hawk</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature — Bird</type>
+        <maintype>Artifact Creature</maintype>
+        <pt>3/1</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Disciple of History</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature — Human Wizard</type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Duskcharm Drake</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature — Drake</type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Eager Fledgeling</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature — Angel Warrior</type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Envoy of the Wilderness</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature — Elemental Wizard</type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Envoys of the Otherworld</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>GW</colors>
+        <manacost>3GW</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature — Wizard Beast</type>
+        <maintype>Enchantment Creature</maintype>
+        <pt>5/5</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Esoteric Oculus</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature — Eye</type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Evasive Acrobatics</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>3</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Falkenrath Frenzy</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>3</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Ferocious Dreamer</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature — Cat</type>
+        <maintype>Enchantment Creature</maintype>
+        <pt>3/3</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Formidible Siege</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>3</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Foundry Meltdown</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>3</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Fragment Out of Space</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Artifact — Shard</type>
+        <maintype>Enchantment Artifact</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>1</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Frontline Fabricator</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Human Soldier</type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Galactic Diplomat</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>W</cmc>
+        <type>Creature — Human Advisor</type>
+        <maintype></maintype>
+        <pt>2/1</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Get The Jump On Them</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>3</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Growing Flame</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature — Elemental</type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Halt Process</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>3</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Hidden Dale</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc></cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+     	<cipt>1</cipt>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Hidden Headland</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc></cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+     	<cipt>1</cipt>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Hidden Lavacast</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc></cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+     	<cipt>1</cipt>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Hidden Mangrove</name>
+      <set rarity="common">CCB</set>
+  	    <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc></cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+     	<cipt>1</cipt>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Hidden Mycoforest</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc></cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+     	<cipt>1</cipt>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Hidden Orchard</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc></cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+     	<cipt>1</cipt>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Hidden Quagmire</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc></cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+     	<cipt>1</cipt>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Hidden Ridges</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc></cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+     	<cipt>1</cipt>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Hidden Ruins</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc></cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+     	<cipt>1</cipt>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Hidden Valley</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc></cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+     	<cipt>1</cipt>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Hodgepodge Hailfire</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Imbued Arrow</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>1</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Induce Madness</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>3</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Infernal Conqueror</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment Creature — Skeleton Knight</type>
+        <maintype>Enchantment Creature</maintype>
+        <pt>6/4</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Junglebound Tyrant</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature — Dinosaur</type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Lost Astronaut</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature — Skeleton Scout</type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Lumbering Tanglewood</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc></cmc>
+        <type>Enchantment Creature — Dryad</type>
+        <maintype>Enchantment Creature</maintype>
+        <pt>6/5</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Luminescent Bumblewog</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature — Beast</type>
+        <maintype></maintype>
+        <pt>2/2</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Militia Caller</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature — Human</type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Monstrous Courtesan</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature — Halfling Noble</type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Mourning Blade</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Artifact — Equipment</type>
+        <maintype></maintype>
+        <pt>+2/+0</pt>
+  	 	</prop>
+ 	  	<tablerow>1</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Neon Cityscape</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc></cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Noxious Spore</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature — Spore</type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Oathkeep Wurm</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature — Wurm Warrior</type>
+        <maintype></maintype>
+        <pt>4/3</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Omen Steelform</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact — Equipment</type>
+        <maintype>Artifact</maintype>
+        <pt>+2/+0</pt>
+  	 	</prop>
+ 	  	<tablerow>1</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Out the Airlock</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>3</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Paralytic Bite</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>GU</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text>Choose one—
+			• Target creature you control deals damage equal to its power to target creature you don't control.
+			• Tap target creature and put two stun counters on it.</text>
+	</card>
+    <card>
+      <name>Plunging Gator</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature — Crocodile</type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Raptor Suit</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Artifact — Equipment</type>
+        <maintype></maintype>
+        <pt>+2/+1</pt>
+  	 	</prop>
+ 	  	<tablerow>1</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Rebuke the Foul</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>3</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Review</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Royal Escort</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature — Human Knight</type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Sailkite Bandit</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Human Rogue</type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Scrap Beast</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature — Beast</type>
+        <maintype>Artifact Creature</maintype>
+        <pt>2/2</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Screaming Raptor</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature — Bird</type>
+        <maintype>Artifact Creature</maintype>
+        <pt>2/3</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Shrieking Leviathan</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature — Leviathan</type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Skozall Monitor</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature — Dog Horror</type>
+        <maintype>Artifact Creature</maintype>
+        <pt>2/1</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Star Mold</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Alien Ooze</type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text>Whenever another permanent you countrol enters, put a +1/+1 counter on this creature. This ability triggers only once each turn. (It's out of this world if it has two or more card types.)</text>
+	</card>
+    <card>
+      <name>Stir the Forgotten</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>3</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Striking Owl</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature — Bird</type>
+        <maintype></maintype>
+        <pt>3/3</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Sudden Inspiration</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>3</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Sunset Chaser</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature — Bird</type>
+        <maintype></maintype>
+        <pt>2/2</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Tainted Blood</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact — Blood</type>
+        <maintype>Artifact</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>1</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Titan's Fall</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+  	 	</prop>
+ 	  	<tablerow>3</tablerow>
+  		<text>This spell costs <sym>4</sym> less to cast if it targets a creature with 4 or greater.
+ 	 
+	  	Exile target nonland permanent.</text>
+	</card>
+    <card>
+      <name>Up the Tempo</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>3</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Upstart Artist</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Creature — Human Rogue</type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Violet Dreamguard</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Faerie</type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Viya'ara Skyseeker</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Dragon Scout</type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Warden of the Lost</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature — Human Shaman</type>
+        <maintype></maintype>
+        <pt>1/3</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text>Menace
+		When this creature enters, you may sacrifice a nonland permanent. If you do, draw a card. </text>
+	</card>
+    <card>
+      <name>Whispered Power</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <pt></pt>
+  	 	</prop>
+ 	  	<tablerow>3</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Woodwraith Gorger</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>4BG</manacost>
+        <cmc>6</cmc>
+        <type>Creature — Zombie Plant</type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+    <card>
+      <name>Woven Ghoul</name>
+      <set rarity="common">CCB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Zombie Horror</type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+  	 	</prop>
+ 	  	<tablerow>2</tablerow>
+  		<text> </text>
+	</card>
+
+	<!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
